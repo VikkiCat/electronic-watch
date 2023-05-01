@@ -2,8 +2,6 @@
 
 The purpose of this exercise is to familiarize you with basic `int` operations.
 
-Estimated workload of this exercise is _30 minutes_.
-
 ### Description
 
 Please, proceed to [ElectronicWatch](src/main/java/com/epam/rd/autotasks/meetautocode/ElectronicWatch.java) class.
